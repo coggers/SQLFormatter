@@ -1,0 +1,10 @@
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\x64\Release\SQLFormatter.exe.config
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\x64\Release\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\x64\Release\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\ResolveAssemblyReference.cache
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\SQLFormatter.MainWindow.resources
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\SQLFormatter.Properties.Resources.resources
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\GenerateResource.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\GenerateResource.write.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x64\Release\SQLFormatter.pdb

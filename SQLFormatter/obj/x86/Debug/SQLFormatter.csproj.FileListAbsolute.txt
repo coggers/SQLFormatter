@@ -1,0 +1,39 @@
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\bin\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\bin\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.Properties.Resources.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\TristanVetXML\trunk\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.Main.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\bin\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\bin\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.MainWindow.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\SQLFormatter.Properties.Resources.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\bin\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\bin\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.MainWindow.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.Properties.Resources.resources
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Documents\Visual Studio 2010\Projects\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\Debug\SQLFormatter.exe.config
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\Debug\SQLFormatter.exe
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\bin\Debug\SQLFormatter.pdb
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.MainWindow.resources
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\SQLFormatter.Properties.Resources.resources
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\paulco.ORIONGLOBAL\Dropbox\OpenSource\SQLFormatter\trunk\SQLFormatter\obj\x86\Debug\GenerateResource.write.1.tlog
